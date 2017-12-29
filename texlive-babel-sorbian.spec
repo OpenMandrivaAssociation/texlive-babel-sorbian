@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-babel-sorbian
-Version:	20131013
-Release:	9
+Version:	20170414
+Release:	1
 Summary:	TeXLive babel-sorbian package
 Group:		Publishing
 URL:		http://tug.org/texlive
