@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-sorbian
 Version:	20180303
-Release:	1
+Release:	2
 Summary:	TeXLive babel-sorbian package
 Group:		Publishing
 URL:		http://tug.org/texlive
