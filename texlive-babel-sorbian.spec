@@ -5,9 +5,9 @@ Summary:	TeXLive babel-sorbian package
 Group:		Publishing
 URL:		http://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-sorbian.r60975.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-sorbian.doc.r60975.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-sorbian.source.r60975.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-sorbian.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-sorbian.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-sorbian.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
